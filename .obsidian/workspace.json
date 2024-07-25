@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "3c594d037ec8b70d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b593d88051725a87",
+        "type": "split",
+        "children": [
+          {
+            "id": "ca693bf269ab049f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62a23d5c7907c770",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Muduo库个人学习 Logger 2022.10.30.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4b25173faa0c02bb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "iceoryx/learn from unittest 0.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "915877852a280a18",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "foonathan memory开源学习.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "931342a71401ad87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "54b8e3f25163b929",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/han/my_obsidian/daily",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/sh",
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 127,
+                        "data": "\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mls\r\n'foonathan memory开源学习.md'   \u001b[34;1miceoryx\u001b[0m  'Muduo库个人学习 Logger 2022.10.30.md'\r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit l                        \r\ngit: 'l' is not a git command. See 'git --help'.\r\n\r\nThe most similar commands are\r\n\u001b[8Clog\r\n\u001b[8Cam\r\n\u001b[8Cgc\r\n\u001b[8Chelp\r\n\u001b[8Cmv\r\n\u001b[8Cmw\r\n\u001b[8Cp4\r\n\u001b[8Cpull\r\n\u001b[8Crm\r\n\u001b[31;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit status\r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit add . \r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mls -lah \r\ntotal 4.0K\r\ndrwxr-xr-x 5 han han 138 Jul 25 16:42  \u001b[34;1m.\r\n\u001b[0mdrwxr-xr-x 3 han han  19 Oct 30  2022  \u001b[34;1m..\r\n\u001b[0m-rw-r--r-- 1 han han   0 Nov  7  2022 'foonathan memory开源学习.md'\r\ndrwxr-xr-x 8 han han 166 Jul 25 16:42  \u001b[34;1m.git\r\n\u001b[0mdrwxr-xr-x 2 han han  54 Jul 25 16:38  \u001b[34;1miceoryx\r\n\u001b[0m-rw-r--r-- 1 han han 154 Nov  7  2022 'Muduo库个人学习 Logger 2022.10.30.md'\r\ndrwxr-xr-x 4 han han 224 Aug 18  2023  \u001b[34;1m.obsidian\r\n\u001b[32m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mvim .\u001b[90m/script/play.bash\r\n\u001b[31;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit add .\r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit status\r\nOn branch master\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n\u001b[8C\u001b[32mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit add . \r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit commit --amend \"first commit\"\r\nerror: pathspec 'first commit' did not match any file(s) known to git\r\n\u001b[31;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit commit --amend -sm \"first commit\"\r\n[master 5af7f67] first commit\r\n Date: Thu Jul 25 16:42:30 2024 +0800\r\n 40 files changed, 87778 insertions(+)\r\n create mode 100644 .obsidian/app.json\r\n create mode 100644 .obsidian/appearance.json\r\n create mode 100644 .obsidian/community-plugins.json\r\n create mode 100644 .obsidian/core-plugins-migration.json\r\n create mode 100644 .obsidian/core-plugins.json\r\n create mode 100644 .obsidian/graph.json\r\n create mode 100644 .obsidian/hotkeys.json\r\n create mode 100644 .obsidian/plugins/calendar/main.js\r\n create mode 100644 .obsidian/plugins/calendar/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-excalidraw-plugin/styles.css\r\n create mode 100644 .obsidian/plugins/obsidian-git/data.json\r\n create mode 100644 .obsidian/plugins/obsidian-git/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-git/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-git/styles.css\r\n create mode 100644 .obsidian/plugins/obsidian-kanban/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-kanban/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-kanban/styles.css\r\n create mode 100644 .obsidian/plugins/obsidian-outliner/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-outliner/manifest.json\r\n create mode 100644 .obsidian/plugins/obsidian-outliner/styles.css\r\n create mode 100644 .obsidian/plugins/table-editor-obsidian/main.js\r\n create mode 100644 .obsidian/plugins/table-editor-obsidian/manifest.json\r\n create mode 100644 .obsidian/plugins/table-editor-obsidian/styles.css\r\n create mode 100644 .obsidian/plugins/terminal/data.json\r\n create mode 100644 .obsidian/plugins/terminal/main.js\r\n create mode 100644 .obsidian/plugins/terminal/manifest.json\r\n create mode 100644 .obsidian/plugins/terminal/styles.css\r\n create mode 100644 .obsidian/themes/Dracula Official/manifest.json\r\n create mode 100644 .obsidian/themes/Dracula Official/theme.css\r\n create mode 100644 .obsidian/themes/Dracula for Obsidian/manifest.json\r\n create mode 100644 .obsidian/themes/Dracula for Obsidian/theme.css\r\n create mode 100644 .obsidian/themes/Sanctum/manifest.json\r\n create mode 100644 .obsidian/themes/Sanctum/theme.css\r\n create mode 100644 .obsidian/workspace.json\r\n create mode 100644 \"Muduo\\345\\272\\223\\344\\270\\252\\344\\272\\272\\345\\255\\246\\344\\271\\240 Logger 2022.10.30.md\"\r\n create mode 100644 \"foonathan memory\\345\\274\\200\\346\\272\\220\\345\\255\\246\\344\\271\\240.md\"\r\n create mode 100644 iceoryx/hello.md\r\n create mode 100644 iceoryx/learn from unittest 0.md\r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit commit --amend -sm \"first commit\"\r\n\u001b[31;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit status                           \r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit diff  \r\n\u001b[32;1m➜ \u001b[34mdaily \u001b[36m(master) \u001b[33m✗ \u001b[0mgit add\u001b[90m .\u001b[2D\u001b[0m",
+                        "rows": 17
+                      }
+                    }
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f26183234fc92410",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d3fd26bf1698a49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad276a3c5ca52c4e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05c791153135db27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9cd60db9e1006d48",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3555b8831e73b0da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d7dcf2148ad33db4",
+    "type": "split",
+    "children": [
+      {
+        "id": "98597f226fd93e19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be544c43712e674d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29e482ab3db38026",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "478785feba277106",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0b64a8eb20c2d32f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "54b8e3f25163b929",
+  "lastOpenFiles": [
+    "iceoryx/learn from unittest 0.md",
+    "Muduo库个人学习 Logger 2022.10.30.md",
+    "foonathan memory开源学习.md",
+    "iceoryx/Untitled.md",
+    "iceoryx/hello.md",
+    "iceoryx/2023-01-12.md",
+    "Untitled",
+    "iceoryx",
+    "Untitled.canvas"
+  ]
+}
